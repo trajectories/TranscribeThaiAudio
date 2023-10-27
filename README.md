@@ -1,2 +1,2 @@
 # TranscribeThaiAudio
-Use thonburiWhisper and pyaudio
+Transcribe thai audio using [thonburiWhisper](https://github.com/biodatlab/thonburian-whisper)https://github.com/biodatlab/thonburian-whisper and pyannote.audio
